@@ -16,7 +16,7 @@ Clone this repository or download it's contents. (Copy from this github Reposito
 
 ==> docker run hello-world
 ==> git clone https://github.com/SiddharthSarvoday/install-jenkins-docker.git
-
+==> cd install-jenkins-docker
 
 ## Step 2
 
