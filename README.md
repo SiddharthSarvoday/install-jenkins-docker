@@ -14,8 +14,8 @@ Install Docker locally (probably using Docker Desktop is the easiest approach).
 
 Clone this repository or download it's contents. (Copy from this github Repository Https)
 
--> docker run hello-world
--> git clone https://github.com/SiddharthSarvoday/install-jenkins-docker.git
+==> docker run hello-world
+==> git clone https://github.com/SiddharthSarvoday/install-jenkins-docker.git](https://github.com/SiddharthSarvoday/learn-jenkins-app.git
 
 ## Step 2
 
